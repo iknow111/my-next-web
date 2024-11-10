@@ -1,5 +1,5 @@
 export default function Home() {
   return (
-    <div>sorry</div>
+    <div>소가 죽으면? 다이소~</div>
   );
 }
